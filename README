@@ -1,0 +1,16 @@
+# Life Assist – Intelligent Reminder Application
+
+## Features
+- Reminder scheduling
+- Priority-based alerts
+- Skip tracking
+- Risk score calculation
+- Monthly analytics
+
+## Tech Stack
+- Flutter
+- Hive Database
+- Local Notifications
+
+## Description
+An adaptive reminder management system that improves productivity using analytics and intelligent notification filtering.
